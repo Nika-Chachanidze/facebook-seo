@@ -1,0 +1,123 @@
+.hh1{
+    position:relative;
+    top: 70px;
+    color: rgb(8 102 255);
+    position: relative;
+    margin-left: 10%;
+    
+    
+}
+
+
+.text1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    line-height: 1.2;
+    position: relative;
+    top: 50px;
+    width: 600px;
+    background-color: aqua;
+    margin: 5%;
+}
+
+#p1{
+    
+    position: relative;
+    
+
+    
+}
+
+
+.img1 img{
+height: 300px;
+margin: 5px;
+
+}
+
+
+
+/* მეორე წესი*/
+
+
+
+.text2{
+    position:relative;
+    top: 70px;
+    color: rgb(8 102 255);
+    position: relative;
+    margin-left: 10%;
+}
+
+
+#p2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    line-height: 1.2;
+    position: relative;
+    top: 50px;
+    width: 600px;
+    background-color: aqua;
+    margin: 5%;
+}
+
+
+/*მესამე წესი*/
+
+.text3{
+    position:relative;
+    top: 800px;
+    text-align: center;
+    color: rgb(8 102 255);
+}
+
+
+
+#p3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    line-height: 0.8;
+    position: relative;
+    top: 50px;
+    color: orange;
+}
+
+
+
+/*მეოთხე წესი*/
+
+
+.text4{
+    position:relative;
+    top: 1200px;
+    text-align: center;
+    color: rgb(8 102 255);
+}
+
+
+#p4{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    line-height: 1.2;
+    position: relative;
+    top: 50px;
+    color: orange;
+}

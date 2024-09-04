@@ -1,0 +1,207 @@
+html{
+    background-color: #0866ff;
+}
+
+
+
+.text1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    line-height: 1.2;
+    position: relative;
+    top: 450px;
+    width: 600px;
+    background-color: aqua;
+    margin: 6%;
+    padding: 2%;
+    border-radius: 5px;
+    
+}
+
+#p1{
+    
+    position: relative;
+    
+
+    
+}
+
+
+.img1 img{
+height: 300px;
+margin: 5px;
+
+}
+
+
+
+
+
+.text2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    line-height: 1.2;
+    position: relative;
+    top: 400px;
+    left: 44%;
+    width: 600px;
+    background-color: aqua;
+    margin: 5.8%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+
+#p2{
+    position: relative;
+}
+
+
+
+
+
+
+
+.text3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    line-height: 1.2;
+    position: relative;
+    top: 400px;
+    width: 600px;
+    background-color: aqua;
+    margin: 6%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+
+#p3{
+    position: relative;
+}
+
+
+
+
+
+.text4{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 0.6px;
+    line-height: 1.2;
+    position: relative;
+    top: 400px;
+    left: 44%;
+    width: 600px;
+    background-color: aqua;
+    margin: 5.8%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+
+#p4{
+    position: relative;
+}
+
+
+
+
+
+.hh1{
+    position:relative;
+    top: 10%;
+    color: rgb(8 102 255);
+    position: relative;
+    margin-left: 27%;
+    border-radius: 5px;
+    
+    
+}
+
+
+
+.hh2{
+    position:relative;
+    top: 10%;
+    color: rgb(8 102 255);
+    position: relative;
+    margin-left: 10%;
+}
+
+
+
+
+.hh3{
+    position:relative;
+    top: 10%;
+    color: rgb(8 102 255);
+    position: relative;
+    margin-left: 10%;
+}
+
+
+
+
+.hh4{
+    position:relative;
+    top: 10%;
+    color: rgb(8 102 255);
+    position: relative;
+    margin-left: 10%;
+    
+}
+
+
+
+
+.header{
+    background-color: aqua;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+    font-size: 30px;
+    line-height: 1.5; 
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+
+
+
+
+
+.footer{
+    background-color: aqua;
+    text-align: center;
+    margin: 5%;
+    padding: 5%;
+    font-size: 30px;
+    line-height: 1.5;
+    margin-top: 35%;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: 900;
+}
+
+
+
+
+
+
